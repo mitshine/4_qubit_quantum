@@ -1,0 +1,28 @@
+C:\Users\Mitesh Khadgi\Downloads\python_examples\quantum>python equilibrium_temperature_2.py
+
+
+Qubit values:  [-180, -165, -150, -135, -120, -105, -90, -75, -60, -45, -30, -15, 0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180]
+
+
+Simulation Started...
+
+
+Total Number of States:  15625000
+Number of Stable States:  195638
+Number of Unstable States:  15429362
+Percentage of Stablity (Stability Ratio):  1.252 %
+
+
+Total Number of States without probabislitic r-value: :  15625000
+Number of finite Stable States without probabislitic r-value:  13000
+Number of finite Unstable States without probabislitic r-value:  15612000
+Percentage of Stablity without probabislitic r-value (Stability Ratio):  0.083 %
+
+
+Percentage of finite_x vs. r-stable states (Difference of probabilistic stable states and finite stable states without probabilistic r-value):  1.169 %
+
+
+Simulation Completed !
+Elapsed Simulation Time:  24.009  seconds
+
+C:\Users\Mitesh Khadgi\Downloads\python_examples\quantum>
