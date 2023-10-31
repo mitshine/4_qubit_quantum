@@ -1,0 +1,15 @@
+C:\python_examples\quantum>python dice.py
+How many dice do you want to roll? [1-6] 3
+[4, 5, 2]
+
+C:\python_examples\quantum>python dice_art.py
+How many dice do you want to roll? [1-6] 3
+
+~~~~~~~~~~~~~ RESULTS ~~~~~~~~~~~~~
+┌─────────┐ ┌─────────┐ ┌─────────┐
+│  ●   ●  │ │  ●   ●  │ │         │
+│    ●    │ │  ●   ●  │ │    ●    │
+│  ●   ●  │ │  ●   ●  │ │         │
+└─────────┘ └─────────┘ └─────────┘
+
+C:\python_examples\quantum>
