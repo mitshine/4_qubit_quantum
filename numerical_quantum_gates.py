@@ -33,7 +33,13 @@ print("Phase =", phase)
 
 # print("PI/8 =", pi_8)
 
-pi_8 = [[1, 0], [0, math.exp((math.pi)/4)]]
+# pi_8 = [[1, 0], [0, math.exp((math.pi)/4)]]
+
+# print("PI/8 =", pi_8)
+
+# pi_8 = [[1, 0], [0, math.exp(-45)]] # e^(i*theta) = cos(theta) + i*sin(theta), e^(i*(-45)) = cos(-45) + i*sin(-45) = 1/sqrt(2) - i*(1/sqrt(2))
+
+pi_8 = [[1, 0], [0, complex(1/math.sqrt(2), - 1/math.sqrt(2))]]
 
 print("PI/8 =", pi_8)
 
