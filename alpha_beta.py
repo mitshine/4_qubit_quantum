@@ -21,6 +21,9 @@ result = A.multiply(B)
     
 print(result)
 
+# OUTPUT:
+# Matrix([[12*U + 3*V], [4*U + 5*V]])
+
 
 """
 >>> from sympy import *
